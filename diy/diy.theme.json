@@ -3,7 +3,7 @@
     "desc": "Modified by MoYu",
     "bgm": "/sound-disco.mp3",
     "dark": true,
-    "background": "/diy-dist/background.jpg",
+    "background": "/background.jpg",
     "backgroundBlur": true,
     "backgroundColor": "#8dac85",
     "pure": true,
